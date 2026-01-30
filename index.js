@@ -18,4 +18,4 @@ if (x > 5) {
 {
 console.log(name.toUpperCase());
 }
-greet ('adam')
+greet ('vulkan')
